@@ -1,0 +1,28 @@
+--> neccery installing libraries
+pip install streamlit numpy pandas scikit-learn joblib plotly
+pip install numpy pandas opencv-python matplotlib torch torchvision ultralytics cvzone
+pip install matplotlib
+pip install plotly
+pip install joblib
+pip install scikit-learn
+pip install pandas
+pip install numpy or conda install numpy  mostly use conda for numpy
+pip install streamlit
+pip install opencv-python
+pip install torch torchvision ultralytics cvzone opencv-python
+pip install streamlit-option-menu
+
+conda install pytorch
+pip install yolov5
+pip install pathlib
+pip install path
+
+
+
+Anaconda Installation Process:
+Create A Conda Environment and cofigures to activate the Environment ( Anaconda Navigator)
+--> conda create -n yolo_AirCraft python=3.8
+--> conda activate yolo_AirCraft
+
+run app
+--> streamlit run app.py 
