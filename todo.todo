@@ -26,3 +26,21 @@ Create A Conda Environment and cofigures to activate the Environment ( Anaconda 
 
 run app
 --> streamlit run app.py 
+
+
+
+
+
+requrements.txt
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.2
+joblib==1.4.2
+plotly
+streamlit
+opencv-python
+matplotlib
+torch
+torchvision
+ultralytics
+cvzone
